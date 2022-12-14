@@ -27,16 +27,24 @@
       "Starring": [
         {
           "name": "Arnold Schwarzenegger",
-          "born": "July 30, 1947"
+          "born": "July 30, 1947",
+          "characters": "Terminator"
 
         },
         {
           "name": "Linda Hamilton",
-          "born": "September 26, 1956"
+          "born": "September 26, 1956",
+          "characters": "Sarah Connor"
         },
         {
           "name": "Robert Patrick",
-          "born": "November 5, 1958"
+          "born": "November 5, 1958",
+          "characters": "T-1000"
+        },
+        {
+          "name": "Edward Furlong",
+          "born": "August 2, 1977",
+          "characters": "John Connor"
         }
       ]
     }
@@ -72,7 +80,7 @@
 
         },
         {
-          "name": "Zoe Saldaña",
+          "name": "Zoe Saldana",
           "born": "June 19, 1978"
         },
         {
